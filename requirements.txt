@@ -1,0 +1,7 @@
+python-telegram-bot==20.7
+moviepy==1.0.3
+openai-whisper==20231117
+torch
+deep-translator==1.11.4
+gtts
+boto3
